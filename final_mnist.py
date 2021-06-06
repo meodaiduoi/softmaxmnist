@@ -27,6 +27,7 @@ y_train = np.array(lb_arr_train)
 y_test = np.array(lb_arr_test)
 print("Du lieu x sau khi cau truc lai", X_train.shape)
 
+# Hello Thầy
 # Log
 from datetime import datetime
 class log:
