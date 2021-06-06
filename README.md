@@ -1,9 +1,9 @@
 # ERM, Gradient Descent, and Subsampling
-## Group project of group No.1,
+***Group project of group No.1***
 <br>
-1. Duong Cong Son 167464
-2. Hoang Thi Thanh Tu 207864
-3. Pham Hoang Dang Trung 1551664
+1. Duong Cong Son 167464  
+2. Hoang Thi Thanh Tu 207864  
+3. Pham Hoang Dang Trung 1551664  
 
 ---
 
