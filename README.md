@@ -5,6 +5,6 @@
 2. Hoang Thi Thanh Tu 207864  
 3. Pham Hoang Dang Trung 1551664  
 
-# Requirment:
+# Requirement:
 1. Python 3.7.7
 2. Libary in requirement.txt file
